@@ -1,0 +1,5 @@
+c:\users\lisa\documents\visual studio 2013\Projects\WhisperMessageReversedString.Test\WhisperMessageReversedStringCLib\obj\Debug\WhisperMessageReversedStringCLib.csprojResolveAssemblyReference.cache
+c:\users\lisa\documents\visual studio 2013\Projects\WhisperMessageReversedString.Test\WhisperMessageReversedStringCLib\bin\Debug\WhisperMessageReversedStringCLib.dll
+c:\users\lisa\documents\visual studio 2013\Projects\WhisperMessageReversedString.Test\WhisperMessageReversedStringCLib\bin\Debug\WhisperMessageReversedStringCLib.pdb
+c:\users\lisa\documents\visual studio 2013\Projects\WhisperMessageReversedString.Test\WhisperMessageReversedStringCLib\obj\Debug\WhisperMessageReversedStringCLib.dll
+c:\users\lisa\documents\visual studio 2013\Projects\WhisperMessageReversedString.Test\WhisperMessageReversedStringCLib\obj\Debug\WhisperMessageReversedStringCLib.pdb

@@ -1,0 +1,8 @@
+c:\users\lisa\documents\visual studio 2013\Projects\WhisperMessageReversedString.Test\WhisperMessageReservedStringConsoleApp\bin\Debug\WhisperMessageReservedStringConsoleApp.exe.config
+c:\users\lisa\documents\visual studio 2013\Projects\WhisperMessageReversedString.Test\WhisperMessageReservedStringConsoleApp\bin\Debug\WhisperMessageReservedStringConsoleApp.exe
+c:\users\lisa\documents\visual studio 2013\Projects\WhisperMessageReversedString.Test\WhisperMessageReservedStringConsoleApp\bin\Debug\WhisperMessageReservedStringConsoleApp.pdb
+c:\users\lisa\documents\visual studio 2013\Projects\WhisperMessageReversedString.Test\WhisperMessageReservedStringConsoleApp\bin\Debug\WhisperMessageReversedStringCLib.dll
+c:\users\lisa\documents\visual studio 2013\Projects\WhisperMessageReversedString.Test\WhisperMessageReservedStringConsoleApp\bin\Debug\WhisperMessageReversedStringCLib.pdb
+c:\users\lisa\documents\visual studio 2013\Projects\WhisperMessageReversedString.Test\WhisperMessageReservedStringConsoleApp\obj\Debug\WhisperMessageReservedStringConsoleApp.csprojResolveAssemblyReference.cache
+c:\users\lisa\documents\visual studio 2013\Projects\WhisperMessageReversedString.Test\WhisperMessageReservedStringConsoleApp\obj\Debug\WhisperMessageReservedStringConsoleApp.exe
+c:\users\lisa\documents\visual studio 2013\Projects\WhisperMessageReversedString.Test\WhisperMessageReservedStringConsoleApp\obj\Debug\WhisperMessageReservedStringConsoleApp.pdb
